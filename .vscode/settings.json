@@ -1,0 +1,13 @@
+{
+    "workbench.colorTheme": "CodeSandbox Dark",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontSize": 16,
+    "editor.fontfamily": "jetBrains Mono",
+    "editor.tabsize": 2,
+    "editor.codeActionsSave": {
+        "source.fixAll.eslint": true
+    },
+    "editor.formaOnSave":true
+
+
+}
